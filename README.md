@@ -13,4 +13,4 @@ A simple weather app built with **HTML, CSS, and JavaScript**.
 ## How to Run Locally  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/HIRUKODIKARA/weather-app.git
+   git clone https://github.com/HIRUKODIKARA/Weather-App.git
