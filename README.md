@@ -8,7 +8,7 @@ A simple weather app built with **HTML, CSS, and JavaScript**.
 ✔️ No API required (beginner-friendly)  
 
 ## Live Demo  
-👉 [View on GitHub Pages](https://HIRUKODIKARA.github.io/weather-app/)  
+👉 [View on GitHub Pages](https://HIRUKODIKARA.github.io/Weather-App/)  
 
 ## How to Run Locally  
 1. Clone the repo:  
